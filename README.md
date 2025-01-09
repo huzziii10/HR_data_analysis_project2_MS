@@ -55,3 +55,16 @@ This project analyzes MeriSkill's HR data to provide insights into demographics,
 
 ## Repository Structure
 HR-Analytics-Dashboard/ ├── Data/ │ ├── HR_Analytics_Dataset.csv # Cleaned dataset used in Power BI │ └── Sample_Data_Dictionary.xlsx # Column definitions and data types ├── PowerBI_Files/ │ └── HR_Analytics_Dashboard.pbix # Power BI dashboard file ├── Visualizations/ │ ├── Page1_Overview.png # Screenshot of Overview dashboard │ ├── Page2_Demographic_Insights.png # Screenshot of Demographics Insights │ ├── Page3_Turnover_Analysis1.png # Screenshot of Turnover Analysis I │ ├── Page4_Turnover_Analysis2.png # Screenshot of Turnover Analysis II │ ├── Page5_Employee_Wellness.png # Screenshot of Employee Wellness ├── Scripts/ │ ├── Data_Cleaning_Script.R # Script for cleaning and preprocessing │ └── Data_Transformation_Steps.md # Manual transformation steps in Power BI ├── Documentation/ │ ├── Dashboard_Design.md # Explanation of dashboard design choices │ ├── Data_Preprocessing.md # Details of cleaning and transformations │ ├── Insights_And_Interpretations.md # Key insights from the dashboards │ └── Visuals_Details.md # Description of all visualizations ├── README.md # Project documentation └── .gitignore # To exclude unnecessary files
+
+
+Outputs
+Visual Analysis:
+
+Employee count, gender distribution, and job roles.
+Attrition patterns by department, age, and marital status.
+Relationship between attrition and job satisfaction, performance, and more.
+Decision-Making Insights:
+
+Identified high-risk groups for attrition.
+Insights into employee wellness and engagement.
+Suggestions for HR interventions to improve retention.
